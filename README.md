@@ -12,3 +12,5 @@ https://gist.github.com/ReidCarlberg/8045684
 JS File
 https://gist.github.com/ReidCarlberg/8045742
 
+Put these two files together in any of the core directories.
+
